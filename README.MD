@@ -4,7 +4,7 @@
 
 - Projeto de banner rotativo em javascript puro
 - Tecnologia utilizada html, css e Js puro
-- Conteúdo aprendido foi a manipulção do DOM, criando animação sem depedência externa.
+- Conteúdo aprendido foi a manipulção do DOM, criando animação sem dependência externa.
 <br/><br/>
 
 <p align = " center">
